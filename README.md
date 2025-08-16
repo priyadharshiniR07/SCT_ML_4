@@ -35,10 +35,7 @@ Press ESC to quit
 ✅ Achieved validation accuracy: 99.96%
 📉 No signs of overfitting
 🚀 Model generalizes well across subjects
-🙋‍♂️ Author
-V. Madhan Raj
-3rd Year CSE Student
-Passionate about AI, Deep Learning, and Human-Computer Interaction
+
 
 📚 Future Work
 Add gesture-based control for media/apps
